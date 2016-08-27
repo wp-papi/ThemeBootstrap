@@ -4,6 +4,8 @@
 	"license": "MIT",
 	"authors": [
 		{ "name": "Fredrik Forsmo", "email": "fredrik.forsmo@gmail.com" },
+		{ "name": "Tomáš Votruba", "email": "tomas.vot@gmail.com" },
+ 		{ "name": "Olivier Laviale", "homepage": "https://github.com/olvlvl" }
 	],
 	"require": {
 		"latte/latte": "~2.2"
