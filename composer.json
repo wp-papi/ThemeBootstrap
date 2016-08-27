@@ -1,11 +1,9 @@
 {
-	"name": "apigen/theme-bootstrap",
-	"description": "Twitter Bootstrap theme for ApiGen",
-	"homepage": "http://apigen.org/",
+	"name": "wp-papi/apigen-theme",
+	"description": "Forked version of Twitter Bootstrap theme for ApiGen",
 	"license": "MIT",
 	"authors": [
-		{ "name": "Tomáš Votruba", "email": "tomas.vot@gmail.com" },
-		{ "name": "Olivier Laviale", "homepage": "https://github.com/olvlvl" }
+		{ "name": "Fredrik Forsmo", "email": "fredrik.forsmo@gmail.com" },
 	],
 	"require": {
 		"latte/latte": "~2.2"
